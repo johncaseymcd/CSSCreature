@@ -1,6 +1,0 @@
-C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\07-Conditionals-Ternary-Expressions\bin\Debug\07-Conditionals-Ternary-Expressions.exe.config
-C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\07-Conditionals-Ternary-Expressions\bin\Debug\07-Conditionals-Ternary-Expressions.exe
-C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\07-Conditionals-Ternary-Expressions\bin\Debug\07-Conditionals-Ternary-Expressions.pdb
-C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\07-Conditionals-Ternary-Expressions\obj\Debug\07-Conditionals-Ternary-Expressions.csproj.CoreCompileInputs.cache
-C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\07-Conditionals-Ternary-Expressions\obj\Debug\07-Conditionals-Ternary-Expressions.exe
-C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\07-Conditionals-Ternary-Expressions\obj\Debug\07-Conditionals-Ternary-Expressions.pdb

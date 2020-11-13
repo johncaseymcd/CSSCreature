@@ -1,7 +1,0 @@
-C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\10-Classes-And-Objects\bin\Debug\10-Classes-And-Objects.exe.config
-C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\10-Classes-And-Objects\bin\Debug\10-Classes-And-Objects.exe
-C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\10-Classes-And-Objects\bin\Debug\10-Classes-And-Objects.pdb
-C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\10-Classes-And-Objects\obj\Debug\10-Classes-And-Objects.csproj.CoreCompileInputs.cache
-C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\10-Classes-And-Objects\obj\Debug\10-Classes-And-Objects.exe
-C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\10-Classes-And-Objects\obj\Debug\10-Classes-And-Objects.pdb
-C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\10-Classes-And-Objects\obj\Debug\10-Classes-And-Objects.csprojAssemblyReference.cache

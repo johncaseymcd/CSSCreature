@@ -1,7 +1,0 @@
-C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\01-HelloWorld\bin\Debug\01-HelloWorld.exe.config
-C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\01-HelloWorld\bin\Debug\01-HelloWorld.exe
-C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\01-HelloWorld\bin\Debug\01-HelloWorld.pdb
-C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\01-HelloWorld\obj\Debug\01-HelloWorld.csprojAssemblyReference.cache
-C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\01-HelloWorld\obj\Debug\01-HelloWorld.csproj.CoreCompileInputs.cache
-C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\01-HelloWorld\obj\Debug\01-HelloWorld.exe
-C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\01-HelloWorld\obj\Debug\01-HelloWorld.pdb

@@ -1,6 +1,0 @@
-C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\08-Numbers\bin\Debug\08-Numbers.exe.config
-C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\08-Numbers\bin\Debug\08-Numbers.exe
-C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\08-Numbers\bin\Debug\08-Numbers.pdb
-C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\08-Numbers\obj\Debug\08-Numbers.csproj.CoreCompileInputs.cache
-C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\08-Numbers\obj\Debug\08-Numbers.exe
-C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\08-Numbers\obj\Debug\08-Numbers.pdb
