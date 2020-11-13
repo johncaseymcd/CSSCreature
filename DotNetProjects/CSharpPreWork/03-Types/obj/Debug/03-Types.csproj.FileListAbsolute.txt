@@ -1,0 +1,6 @@
+C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\03-Types\obj\Debug\03-Types.csproj.CoreCompileInputs.cache
+C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\03-Types\bin\Debug\03-Types.exe.config
+C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\03-Types\bin\Debug\03-Types.exe
+C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\03-Types\bin\Debug\03-Types.pdb
+C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\03-Types\obj\Debug\03-Types.exe
+C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\03-Types\obj\Debug\03-Types.pdb

@@ -1,0 +1,7 @@
+C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\03-Types-Challenges\bin\Debug\03-Types-Challenges.exe.config
+C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\03-Types-Challenges\bin\Debug\03-Types-Challenges.exe
+C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\03-Types-Challenges\bin\Debug\03-Types-Challenges.pdb
+C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\03-Types-Challenges\obj\Debug\03-Types-Challenges.csprojAssemblyReference.cache
+C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\03-Types-Challenges\obj\Debug\03-Types-Challenges.csproj.CoreCompileInputs.cache
+C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\03-Types-Challenges\obj\Debug\03-Types-Challenges.exe
+C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\03-Types-Challenges\obj\Debug\03-Types-Challenges.pdb

@@ -1,0 +1,6 @@
+C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\05-Strings\bin\Debug\05-Strings.exe.config
+C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\05-Strings\bin\Debug\05-Strings.exe
+C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\05-Strings\bin\Debug\05-Strings.pdb
+C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\05-Strings\obj\Debug\05-Strings.csproj.CoreCompileInputs.cache
+C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\05-Strings\obj\Debug\05-Strings.exe
+C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\05-Strings\obj\Debug\05-Strings.pdb

@@ -1,0 +1,6 @@
+C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\02-variables\bin\Debug\02-variables.exe.config
+C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\02-variables\bin\Debug\02-variables.exe
+C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\02-variables\bin\Debug\02-variables.pdb
+C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\02-variables\obj\Debug\02-variables.csproj.CoreCompileInputs.cache
+C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\02-variables\obj\Debug\02-variables.exe
+C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\02-variables\obj\Debug\02-variables.pdb

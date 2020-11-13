@@ -1,0 +1,6 @@
+C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\07-Conditionals-If-Else\bin\Debug\07-Conditionals-If-Else.exe.config
+C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\07-Conditionals-If-Else\bin\Debug\07-Conditionals-If-Else.exe
+C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\07-Conditionals-If-Else\bin\Debug\07-Conditionals-If-Else.pdb
+C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\07-Conditionals-If-Else\obj\Debug\07-Conditionals-If-Else.csproj.CoreCompileInputs.cache
+C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\07-Conditionals-If-Else\obj\Debug\07-Conditionals-If-Else.exe
+C:\Users\johnc\Documents\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\07-Conditionals-If-Else\obj\Debug\07-Conditionals-If-Else.pdb
