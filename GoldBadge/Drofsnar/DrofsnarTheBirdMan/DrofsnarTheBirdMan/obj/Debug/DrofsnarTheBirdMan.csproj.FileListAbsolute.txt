@@ -1,0 +1,10 @@
+C:\Users\johnc\OneDrive\Documents\ElevenFiftyProjects\GoldBadge\Drofsnar\DrofsnarTheBirdMan\DrofsnarTheBirdMan\bin\Debug\DrofsnarTheBirdMan.exe.config
+C:\Users\johnc\OneDrive\Documents\ElevenFiftyProjects\GoldBadge\Drofsnar\DrofsnarTheBirdMan\DrofsnarTheBirdMan\bin\Debug\DrofsnarTheBirdMan.exe
+C:\Users\johnc\OneDrive\Documents\ElevenFiftyProjects\GoldBadge\Drofsnar\DrofsnarTheBirdMan\DrofsnarTheBirdMan\bin\Debug\DrofsnarTheBirdMan.pdb
+C:\Users\johnc\OneDrive\Documents\ElevenFiftyProjects\GoldBadge\Drofsnar\DrofsnarTheBirdMan\DrofsnarTheBirdMan\bin\Debug\Drofsnar_Classes.dll
+C:\Users\johnc\OneDrive\Documents\ElevenFiftyProjects\GoldBadge\Drofsnar\DrofsnarTheBirdMan\DrofsnarTheBirdMan\bin\Debug\Drofsnar_Classes.pdb
+C:\Users\johnc\OneDrive\Documents\ElevenFiftyProjects\GoldBadge\Drofsnar\DrofsnarTheBirdMan\DrofsnarTheBirdMan\obj\Debug\DrofsnarTheBirdMan.csprojAssemblyReference.cache
+C:\Users\johnc\OneDrive\Documents\ElevenFiftyProjects\GoldBadge\Drofsnar\DrofsnarTheBirdMan\DrofsnarTheBirdMan\obj\Debug\DrofsnarTheBirdMan.csproj.CoreCompileInputs.cache
+C:\Users\johnc\OneDrive\Documents\ElevenFiftyProjects\GoldBadge\Drofsnar\DrofsnarTheBirdMan\DrofsnarTheBirdMan\obj\Debug\DrofsnarTheBirdMan.csproj.CopyComplete
+C:\Users\johnc\OneDrive\Documents\ElevenFiftyProjects\GoldBadge\Drofsnar\DrofsnarTheBirdMan\DrofsnarTheBirdMan\obj\Debug\DrofsnarTheBirdMan.exe
+C:\Users\johnc\OneDrive\Documents\ElevenFiftyProjects\GoldBadge\Drofsnar\DrofsnarTheBirdMan\DrofsnarTheBirdMan\obj\Debug\DrofsnarTheBirdMan.pdb

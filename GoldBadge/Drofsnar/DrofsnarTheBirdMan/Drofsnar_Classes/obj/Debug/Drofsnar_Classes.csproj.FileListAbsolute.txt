@@ -1,0 +1,6 @@
+C:\Users\johnc\OneDrive\Documents\ElevenFiftyProjects\GoldBadge\Drofsnar\DrofsnarTheBirdMan\Drofsnar_Classes\bin\Debug\Drofsnar_Classes.dll
+C:\Users\johnc\OneDrive\Documents\ElevenFiftyProjects\GoldBadge\Drofsnar\DrofsnarTheBirdMan\Drofsnar_Classes\bin\Debug\Drofsnar_Classes.pdb
+C:\Users\johnc\OneDrive\Documents\ElevenFiftyProjects\GoldBadge\Drofsnar\DrofsnarTheBirdMan\Drofsnar_Classes\obj\Debug\Drofsnar_Classes.csprojAssemblyReference.cache
+C:\Users\johnc\OneDrive\Documents\ElevenFiftyProjects\GoldBadge\Drofsnar\DrofsnarTheBirdMan\Drofsnar_Classes\obj\Debug\Drofsnar_Classes.csproj.CoreCompileInputs.cache
+C:\Users\johnc\OneDrive\Documents\ElevenFiftyProjects\GoldBadge\Drofsnar\DrofsnarTheBirdMan\Drofsnar_Classes\obj\Debug\Drofsnar_Classes.dll
+C:\Users\johnc\OneDrive\Documents\ElevenFiftyProjects\GoldBadge\Drofsnar\DrofsnarTheBirdMan\Drofsnar_Classes\obj\Debug\Drofsnar_Classes.pdb
